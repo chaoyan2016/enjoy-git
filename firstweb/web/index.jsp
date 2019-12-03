@@ -11,7 +11,7 @@
     <title>My first web 1234567abc123q</title>
   </head>
   <body>
-        我的第一个Intellij IDEA开发的web项目运行成功！123
+        我的第一个Intellij IDEA开发的web项目运行成功！
   </body>
 </html>
   
